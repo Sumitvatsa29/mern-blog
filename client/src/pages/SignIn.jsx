@@ -1,8 +1,8 @@
 
-export default function SignIp() {
+export default function SignIn() {
   return (
     <div>
-      sign up
+      sign In
     </div>
   )
 }
